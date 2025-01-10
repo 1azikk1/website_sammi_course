@@ -235,6 +235,7 @@ header{
     background: var(--dark);
     padding: 0.25rem 1rem;
     color: #fff;
+    border-radius: 15px;
 }
 
 .design-img span:last-of-type{
@@ -308,6 +309,7 @@ header{
     color: #fff;
     font-size: 1.4rem;
     padding: 0.3rem 0.6rem;
+    border-radius: 10px;
 }
 
 .blog-text{
